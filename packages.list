@@ -10,5 +10,12 @@ luci-i18n-wechatpush-zh-cn
 luci-i18n-wol-zh-cn
 luci-i18n-zerotier-zh-cn
 luci-theme-argon
+luci-i18n-ddns-go-zh-cn
+luci-i18n-ddns-zh-cn
+luci-i18n-arpbind-zh-cn"
+luci-i18n-samba4-zh-cn
+luci-i18n-package-manager-zh-cn
+luci-i18n-samba4-zh-cn
+luci-i18n-openlist-zh-cn
 -automount
 bash
