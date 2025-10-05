@@ -1,11 +1,11 @@
 # Beware! This script will be in /rom/etc/uci-defaults/ as part of the image.
 # Uncomment lines to apply:
 #
-# wlan_name="ImmortalWrt"
-# wlan_password="12345678"
+wlan_name="ImmortalWrt"
+wlan_password="12345678"
 #
-# root_password=""
-lan_ip_address="192.168.5.1"
+root_password="123456"
+lan_ip_address="192.168.50.133"
 #
 # pppoe_username="123"
 # pppoe_password="456"
