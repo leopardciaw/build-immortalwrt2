@@ -12,6 +12,7 @@ luci-i18n-zerotier-zh-cn
 luci-theme-argon
 luci-i18n-ddns-go-zh-cn
 luci-i18n-ddns-zh-cn
-luci-i18n-arpbind-zh-cn"
+luci-i18n-arpbind-zh-cn
+luci-i18n-taskplan-zh-cn
 -automount
 bash
