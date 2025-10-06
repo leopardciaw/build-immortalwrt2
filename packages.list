@@ -30,7 +30,6 @@ luci-i18n-netwizard-zh-cn
 luci-i18n-smartdns-zh-cn
 luci-i18n-uhttpd-zh-cn
 luci-app-aliddns
-luci-app-store
 luci-app-partexp
 -automount
 bash
