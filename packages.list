@@ -26,10 +26,10 @@ luci-i18n-attendedsysupgrade-zh-cn
 luci-i18n-commands-zh-cn
 luci-i18n-dufs-zh-cn
 luci-i18n-filemanager-zh-cn
-luci-i18n-netwizard-zh-cn
 luci-i18n-smartdns-zh-cn
 luci-i18n-uhttpd-zh-cn
 luci-app-aliddns
 luci-i18n-partexp-zh-cn
+luci-i18n-cifs-mount-zh-cn
 -automount
 bash
